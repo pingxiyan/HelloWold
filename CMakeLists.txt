@@ -16,7 +16,7 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
 # set link directory
 link_directories(${CMAKE_LIBRARY_OUTPUT_DIRECTORY_DEBUG})
 
-# opencd
+# opencv
 find_package(OpenCV REQUIRED)
 
 # ===========================================
