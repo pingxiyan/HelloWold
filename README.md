@@ -5,6 +5,3 @@ Now test add branch, add some context!
 test rebase1
 
 1. test git reset
-
-2. test revert.
-
